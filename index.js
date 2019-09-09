@@ -77,13 +77,13 @@ function myFunction() {
     var entryId = entryVal.value.toLowerCase();
     if (entryId in words) {
         var message = "<br />";
-        message += "Searched: " + entryVal.value + "<br />";
-        message += "Translation: " + words[entryId].translation + "<br />";
+        message += "<b>Searched: </b>" + entryVal.value + "<br />";
+        message += "<b>Translation: </b>" + words[entryId].translation + "<br />";
 
         document.getElementById("result").innerHTML = message;
         entryVal.value = "";
     } else {
-        document.getElementById("result").innerHTML = "Not found";
+        document.getElementById("result").innerHTML = "<br />Not found";
     }
     entryVal.focus();
 }

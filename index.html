@@ -1,9 +1,18 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu"
+    crossorigin="anonymous">
+<link rel="stylesheet" href="./style.css">
+<link href="https://fonts.googleapis.com/css?family=Space+Mono:700&display=swap" rel="stylesheet">
 <script src="./index.js"></script>
-<h1>Alien Translator App</h1>
+<div class="container-fluid">
+    <h1 class="text-center">Alien Translator App</h1>
+    <br/>
 
-<noscript>Sorry, your browser does not support JavaScript!</noscript>
-<input id="entryInput" type="text" />
+    <noscript>Sorry, your browser does not support JavaScript!</noscript>
+    <div class="text-center">
+        <input id="entryInput" type="text" />
+        <br/>
+        <input class="btn btn-primary" type="button" id="search_button" value="Translate" />
+    </div>
 
-<input type="button" id="search_button" value="Translate" />
-
-<div id="result"></div>
+    <div class="text-center" id="result"></div>

@@ -2,9 +2,6 @@ var words = {
     "apple": {
         translation: "Pomme",
     },
-    "bowling": {
-        translation: "Blah blah",
-    },
     /* Note 1 */
     "ouuaieaiie": {
         translation: "One day on Venus is longer than one WHOLE year on Earth!",
@@ -19,53 +16,53 @@ var words = {
         translation: "There is a volcano on Mars 3 times bigger than Mt. Everest.",
     },
     "iiieaoueeo": {
-        translation: "The moon was once part of Earth!",
+        translation: "Over one million Earths could fit inside the sun!",
     },
     "ooiaueiuei": {
-        translation: "The moon was once part of Earth!",
+        translation: "There are over 500,000 pieces of space junk orbiting Earth.",
     },
     "aeiiuuoe": {
-        translation: "The moon was once part of Earth!",
+        translation: "Earth is hit by an asteroid the size of a car once a year!",
     },
     "oiiueaie": {
-        translation: "The moon was once part of Earth!",
+        translation: "Scientists believe there are BILLIONS of galaxies in the universe.",
     },
     "eieioouaie": {
-        translation: "The moon was once part of Earth!",
+        translation: "If you could fly a plane to Pluto, the trip would take 800 years!",
     },
     "eeioouuie": {
-        translation: "The moon was once part of Earth!",
+        translation: "There are at least 166 moons in our solar system!",
     },
     /* Note 2 */
     "eiiouuaau": {
-        translation: "The moon was once part of Earth!",
+        translation: "Venus is the second brightest object in the night sky.",
     },
     "oooiueeai": {
-        translation: "The moon was once part of Earth!",
+        translation: "Over a third of Pluto is made of water.",
     },
     "uuiiaeiai": {
-        translation: "The moon was once part of Earth!",
+        translation: "The footprints from the first mission will stay on the moon at least 100 million years.",
     },
     "aiaeeuioo": {
-        translation: "The moon was once part of Earth!",
+        translation: "If two pieces of metal touch in space, they will permanently stick together.",
     },
     "eeeooiuai": {
-        translation: "The moon was once part of Earth!",
+        translation: "Jupiter's Great Red Spot is a storm that has been raging over 350 years! ",
     },
     "uuioioae": {
-        translation: "The moon was once part of Earth!",
+        translation: "It takes the planet Uranus 84 years to circle around the sun.",
     },
     "uooiaeeaoiu": {
-        translation: "The moon was once part of Earth!",
+        translation: "The solar system is 4.6 billion years old.",
     },
     "uoiieaui": {
-        translation: "The moon was once part of Earth!",
+        translation: "The sun weighs 330,000 times more than Earth!",
     },
     "iiioueeuiei": {
-        translation: "The moon was once part of Earth!",
+        translation: "Pluto is smaller than the United States!",
     },
     "eiouuai": {
-        translation: "The moon was once part of Earth!",
+        translation: "There are more volcanoes on Venus than any other planet.",
     },
 };
 

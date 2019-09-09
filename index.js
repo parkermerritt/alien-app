@@ -77,7 +77,7 @@ function myFunction() {
     var entryId = entryVal.value.toLowerCase();
     if (entryId in words) {
         var message = "<br />";
-        message += "<b>Searched: </b>" + entryVal.value + "<br />";
+        message += "<b>Alien Word: </b>" + entryVal.value + "<br />";
         message += "<b>Translation: </b>" + words[entryId].translation + "<br />";
 
         document.getElementById("result").innerHTML = message;

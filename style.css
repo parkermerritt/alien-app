@@ -1,10 +1,11 @@
 h1{
     font-size:5rem;
     font-family: 'Space Mono', monospace;
+    color:limegreen;
 
 }
 
-body { background-color: #F1D5FD; }
+body { background-color: #000000; }
 #entryinput {
     margin: 10px;
     width: 30rem;
@@ -15,6 +16,11 @@ body { background-color: #F1D5FD; }
 }
 #search_button {
     font-family: 'Space Mono', monospace;
-
     font-size: 20px;
+}
+
+#result {
+    font-family: 'Space Mono', monospace;
+    font-size: 30px;
+    color:limegreen;
 }

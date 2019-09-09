@@ -79,7 +79,7 @@ function myFunction() {
     var entryVal = document.getElementById("entryInput");
     var entryId = entryVal.value.toLowerCase();
     if (entryId in words) {
-        var message = "";
+        var message = "<br />";
         message += "Searched: " + entryVal.value + "<br />";
         message += "Translation: " + words[entryId].translation + "<br />";
 

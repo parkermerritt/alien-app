@@ -33,6 +33,9 @@ var words = {
     "eeioouuie": {
         translation: "There are at least 166 moons in our solar system!",
     },
+    "aaieouu": {
+        translation: "Space is completely silent... there's no sound at all!",
+    },
     /* Note 2 */
     "eiiouuaau": {
         translation: "Venus is the second brightest object in the night sky.",

@@ -67,6 +67,7 @@ var words = {
     "eiouuai": {
         translation: "There are more volcanoes on Venus than any other planet.",
     },
+    /* Additional words */
 };
 
 window.onload = onloadFunc;
@@ -78,6 +79,7 @@ function onloadFunc() {
 function myFunction() {
     var entryVal = document.getElementById("entryInput");
     var entryId = entryVal.value.toLowerCase();
+
     if (entryId in words) {
         var message = "<br />";
         message += "<b>Alien Word: </b>" + entryVal.value + "<br />";
@@ -86,8 +88,7 @@ function myFunction() {
         document.getElementById("result").innerHTML = message;
         entryVal.value = "";
     } else {
-        document.getElementById("result").innerHTML = "<br />Not found";
+        document.getElementById("result").innerHTML = "<br />Translation not found";
     }
     document.activeElement.blur();
-
 }

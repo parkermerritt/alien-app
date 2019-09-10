@@ -85,5 +85,6 @@ function myFunction() {
     } else {
         document.getElementById("result").innerHTML = "<br />Not found";
     }
+    document.activeElement.blur();
 
 }

@@ -9,6 +9,15 @@ var words = {
      "ieieoooauu": {
         translation: "There are some stars that spin over 600 times PER SECOND.",
     },
+    "aieaoouiua": {
+        translation: "NASA believes there may be planets made completely of diamond!",
+    },
+    "uoiieaaui": {
+        translation: "The planet Mercury is slowly shrinking.",
+    },
+    "eiouuaio": {
+        translation: "Mercury and Venus are the only planets in our solar system without moons!",
+    },
     "eeouiaaaeu": {
         translation: "The largest known asteroid is 600 miles wide.",
     },

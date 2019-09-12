@@ -6,6 +6,9 @@ var words = {
     "ouuaieaiie": {
         translation: "One day on Venus is longer than one WHOLE year on Earth!",
     },
+     "ieieoooauu": {
+        translation: "There are some stars that spin over 600 times PER SECOND.",
+    },
     "eeouiaaaeu": {
         translation: "The largest known asteroid is 600 miles wide.",
     },
